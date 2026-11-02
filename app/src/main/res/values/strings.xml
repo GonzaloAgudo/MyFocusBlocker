@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFocusBlocker</string>
+    <string name="accessibility_description">Permite a MyFocusBlocker detectar qué app abres para poder bloquearla según tus reglas. No se recoge ni envía ningún dato fuera del teléfono.</string>
 </resources>
